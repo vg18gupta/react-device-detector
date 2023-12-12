@@ -1,7 +1,8 @@
 [![npm version](https://badge.fury.io/js/react-device-detector-hook.svg)](https://badge.fury.io/js/react-device-detector-hook)
 
 
-# react-device-detector
+# react-device-detector-hook
+
 
 
 React hook to detect the device type. This hook is able to detect mobile, desktop, android or iOS device.
@@ -9,19 +10,22 @@ React hook to detect the device type. This hook is able to detect mobile, deskto
 # Installing
 
 ```bash
-npm install react-device-detector
+npm install react-device-detector-hook
+
 
 ```
 
 ```bash
-yarn add react-device-detector
+yarn add react-device-detector-hook
+
 
 ```
 
 # Usage
 
 ```javascript
-import useDeviceDetector from 'react-device-detector';
+import useDeviceDetector from 'react-device-detector-hook';
+
 
 
 
@@ -45,5 +49,6 @@ const detectMobile = useDeviceDetector();
 If you have any new suggestions, new features, bug fixes, etc. please contribute by raising pull request on the [repository](https://github.com/vg18gupta/react-device-detector).
 
 
-If you have any issue with the `react-device-detector`, open an issue on [Github](https://github.com/vg18gupta/react-device-detector).
+If you have any issue with the `react-device-detector-hook`, open an issue on [Github](https://github.com/vg18gupta/react-device-detector).
+
 
