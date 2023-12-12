@@ -1,10 +1,10 @@
 {
-  "name": "react-device-detector",
+  "name": "react-device-detector-hook",
   "version": "1.0.5",
   "description": "The React hook to detect if the device is mobile or desktop.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vg18gupta/react-device-detector.git"
+    "url": "git+https://github.com/vg18gupta/react-device-detector.git"
   },
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -62,5 +62,8 @@
   ],
   "author": "haldarmahesh",
   "license": "MIT",
-  "dependencies": {}
+  "bugs": {
+    "url": "https://github.com/vg18gupta/react-device-detector/issues"
+  },
+  "homepage": "https://github.com/vg18gupta/react-device-detector#readme"
 }

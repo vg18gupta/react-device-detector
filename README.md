@@ -1,4 +1,5 @@
-[![npm version](https://badge.fury.io/js/use-mobile-detect-hook.svg)](https://badge.fury.io/js/use-mobile-detect-hook)
+[![npm version](https://badge.fury.io/js/react-device-detector-hook.svg)](https://badge.fury.io/js/react-device-detector-hook)
+
 
 # react-device-detector
 
